@@ -76,11 +76,7 @@ body {
   border: 2px solid plum;
   border-radius: 10px;
 }
-.parent {
-  position: relative;
-}
 .rocket {
-  position: absolute;
   font-size: 2rem;
   background-color: black;
   padding: 0.8rem;
