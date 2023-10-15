@@ -40,3 +40,12 @@ body {
   font-weight: bold;
   padding: 1rem;
 }
+#section-one {
+  background-color: darkseagreen;
+}
+#section-two {
+  background-color: darksalmon;
+}
+#section-three {
+  background-color: lightblue;
+}
