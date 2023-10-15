@@ -16,3 +16,27 @@ body {
   height: 100vh;
   width: 100%;
 }
+.header-one {
+  background-color: cornflowerblue;
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+.header-two {
+  background-color: brown;
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 1rem;
+}
+.header-three {
+  background-color: hotpink;
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 1rem;
+}
