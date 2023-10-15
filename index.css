@@ -63,9 +63,29 @@ body {
   color: plum;
 }
 .anchor:hover {
-  border-bottom: 2px solid plum;
+  border: 1px solid plum;
+  border-radius: 10px;
 }
 .anchor:focus {
   border: 2px solid plum;
   border-radius: 10px;
+}
+.parent {
+  position: relative;
+}
+.rocket {
+  position: absolute;
+  font-size: 2rem;
+  background-color: black;
+  padding: 0.8rem;
+  border-radius: 15px;
+  position: fixed;
+  z-index: 1;
+  top: 30%;
+  left: 1%;
+}
+.heading {
+  color: white;
+  font-size: 2rem;
+  padding: 0.7rem;
 }
