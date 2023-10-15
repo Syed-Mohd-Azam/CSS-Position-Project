@@ -49,3 +49,10 @@ body {
 #section-three {
   background-color: lightblue;
 }
+.footer {
+  background-color: black;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
