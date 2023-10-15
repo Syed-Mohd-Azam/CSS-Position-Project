@@ -62,3 +62,10 @@ body {
   text-decoration: none;
   color: plum;
 }
+.anchor:hover {
+  border-bottom: 2px solid plum;
+}
+.anchor:focus {
+  border: 2px solid plum;
+  border-radius: 10px;
+}
